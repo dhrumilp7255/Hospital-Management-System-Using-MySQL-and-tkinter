@@ -31,6 +31,9 @@ This Project is created by using tkinter for GUI
 - Run the code and make sure that your created Database is connected successfully.
 - Now you can easily manage the patient information and can perform various operations.
 
+## GUI preview:
+![image](https://user-images.githubusercontent.com/67269209/162787987-9b02a8da-382f-4a96-b594-b73ca459d308.png)
+
 
 
 ## Prerequesites:
